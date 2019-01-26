@@ -1,0 +1,70 @@
+.base_graf_Em_Busca {
+    width: 100%; /*tamanho lateral do grafico*/
+}
+.Busca_nome, .Busca_nome_pre {
+    width: 15%;
+    background-color: #ededed;
+    height: 20px; /*se alterar altura, alterar também altura da tabela*/
+    float: left;
+}
+.Busca_nome_pre {
+    width: 30%;
+}
+.Busca_valor, .Busca_valor_pre {
+    background-color: white;
+    height: 20px; /*altura igual a da classe Busca_nome*/
+    float: right;
+}
+.Busca_valor_pre {
+    width: 70%;
+}
+.Busca_valor {
+    width: 85%;
+}
+.Busca_nome_centralizado {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: black;
+}
+.insert_busca_width {
+    background-color: #ededed;
+    height: 1.2em;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+}
+.valor_alin, .valor_alin_pre {
+    height: .8em;
+    color: black;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.valor_alin_pre {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
